@@ -3,6 +3,7 @@
 My friend is a photographer who uses a camera model that doesn't sync JPG and RAW files accordingly. She wants to sync all RAW files with keeper JPEGs from a shoot, but it takes a lot of time manually comparing both folders and deleting files. To help her out, I created two versions of a solution:
 
 **_Streamlit Version:_** This version allows her to use a web browser on her local machine to specify the desired root folder.
+
 **_Bash Script Version:_** This version is a standalone Python script that runs automatically using a bash file.
 
 I was able to create these simple scripts within 3 hours, saving her hours of work every week.
